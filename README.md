@@ -1,2 +1,2 @@
-# todo
-Simple todo web app with local storage
+# Todo
+Simple todo web app. I used vanila js. In main branch minified files are situated. There are normal files in develop branch.
